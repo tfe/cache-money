@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name     = "cache-money"
+  s.name     = "tfe-cache-money"
   s.version  = "0.2.5"
   s.date     = "2008-11-24"
   s.summary  = "Write-through and Read-through Cacheing for ActiveRecord"
